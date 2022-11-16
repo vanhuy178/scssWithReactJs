@@ -1,0 +1,21 @@
+.nav-links {
+    display: flex;
+    width: 50%;
+
+    // 100% của thẻ nav với height là 10vh
+    height: 100%;
+    margin-left: auto;
+    justify-content: space-around;
+    align-items: center;
+
+    li {
+        list-style: none;
+    }
+
+    li a {
+        list-style: none;
+        text-decoration: none;
+        color: white;
+        font-size: 1rem;
+    }
+}
