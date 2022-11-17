@@ -1,9 +1,9 @@
-import RenderAnimatedResponsiveNavbar from "./AnimatedResponsiveNavbar/views";
+import RenderResponsiveProductCard from "./ResponsiveProductCards/views";
 
 function App() {
   return (
     <>
-      <RenderAnimatedResponsiveNavbar />
+      <RenderResponsiveProductCard />
     </>
   );
 }

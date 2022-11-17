@@ -1,0 +1,1 @@
+- In folder view has RenderAnimatedResponsive, import it into App.js and use it

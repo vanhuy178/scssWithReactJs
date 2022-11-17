@@ -1,0 +1,1 @@
+* just import views/index into App.js
